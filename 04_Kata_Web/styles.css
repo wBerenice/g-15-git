@@ -1,0 +1,118 @@
+.padre {
+    display: flex;
+    background-color: tomato;
+    height: 100vh;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.contenedor1 {
+    background-color: yellowgreen;
+    justify-content: center;
+    width: 40%;
+    height: 70%;
+    border: 1px white solid;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.padre100 {
+    background-color: turquoise;
+    width: 25%;
+    height: 25%;
+    border: 1px white solid;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.padre200 {
+    background-color: turquoise;
+    width: 25%;
+    height: 25%;
+    border: 1px white solid;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.padre300 {
+    background-color: turquoise;
+    width: 25%;
+    height: 25%;
+    border: 1px white solid;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.hijo100 {
+    background-color: tomato;
+    border: 1px white solid;
+    width: 20%;
+    height: 20%;
+}
+
+
+
+
+
+.contenedor2 {
+    background-color: yellowgreen;
+    width: 40%;
+    height: 70%;
+    border: 1px white solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hijo200 {
+    background-color: turquoise;
+    width: 25%;
+    height: 25%;
+    border: 1px white solid;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.hijo210 {
+    background-color: turquoise;
+    width: 25%;
+    height: 25%;
+    border: 1px white solid;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.foco2 {
+    background-color: tomato;
+    border: 1px white solid;
+    width: 20%;
+    height: 20%;
+}
+
+.hijo220 {
+    background-color: turquoise;
+    width: 25%;
+    height: 25%;
+    border: 1px white solid;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.foco1 {
+    background-color: tomato;
+    border: 1px white solid;
+    width: 20%;
+    height: 20%;
+}
+
+

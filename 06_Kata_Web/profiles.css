@@ -1,0 +1,24 @@
+img {
+    width: 100%;
+    height: auto;
+}
+
+.container {
+    width: 100%;
+    height: 80%;
+    background-color: blue;
+}
+
+.persona1 {
+    width: 100%;
+    height: 50%;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.img-profile {
+    width: 100px;
+    height: 100px;
+}
+

@@ -1,0 +1,73 @@
+.base {
+    /* background-color: fuchsia; */
+    height: 100vh;
+    width: 100%;
+    display: flex;
+}
+
+
+.leftside {
+    height: 100vh;
+    width: 40vh;
+    background-color: #002868;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: flex-start;
+    /* border: 1px white solid; */
+}
+
+.blanco1 {
+    height: 40%;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    align-items: flex-start;
+}
+
+.blanco2 {
+    height: 40%;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    align-items: flex-end;
+}
+
+.rojo {
+    height: 85%;
+    width: 85%;
+    background-color: #EF2B2D;
+}
+
+.rightside {
+    height: 100vh;
+    width: 140vh;
+    background-color: #002868;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.blanco100 {
+    height: 40%;
+    width: 80%;
+    background-color: white;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.blanco200 {
+    height: 40%;
+    width: 80%;
+    background-color: white;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+.rojo100 {
+    height: 85%;
+    width: 93%;
+    background-color: #EF2B2D;
+}
